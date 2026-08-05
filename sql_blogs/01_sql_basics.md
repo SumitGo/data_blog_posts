@@ -72,7 +72,7 @@ But for an Enterprise, this server keeps running and with much more compute powe
 
 ### Database Types/Models
 A database can be of different types, here, i am showing mostly popular models, there might be other models as well.
-* Relational Database (`Microsoft SQL Server`, `PostgreSQL`, `Oracle SQL`, `MySQL`, and more)
+#### Relational Database (`Microsoft SQL Server`, `PostgreSQL`, `Oracle SQL`, `MySQL`, and more)
 - Consists of multiple tables, formed with rows and columns
 - Each table can be related to each other, hence the name Relational Database.
 - This type is also called the SQL database. The rest of the databases models are called NoSQL databases.
@@ -80,19 +80,19 @@ A database can be of different types, here, i am showing mostly popular models, 
 
 `Just going to brief about the rest of the types, i don't have much knowledge about them`
 
-* Key-Value Database (`Amazon DynamoDB`, `Redis`)
+#### Key-Value Database (`Amazon DynamoDB`, `Redis`)
 - Consists of a unique key, and a related meaning of that key
 - Just like in dicitonary we have a key and it's meaning, similarly, in this DB we have a Unique key mapped to a vlaue
 
-* Column based Database (`Apache Cassandra`, `Amazon Redshift`)
+#### Column based Database (`Apache Cassandra`, `Amazon Redshift`)
 - Each data is stored in a specific column
 - This type of database only consists of columns
 - It's an advance DB used to handle massive amounts of data, primarily for searching the data.
 
-* Graph based Database (`Neo4j`)
+#### Graph based Database (`Neo4j`)
 - Main focus is that data elements have relations to each other.
 
-* Document DB (`MongoDB`)
+#### Document DB (`MongoDB`)
 - Data is stored in a document format.
 - It's not important to search the DB, but to fit all the data in one place, one document
 
