@@ -134,4 +134,4 @@ Now we are ready to go in depth in SQL. See you in next chapter notes.
 
 If you find any incorrect information, please feel free to correct me, by commenting or some other way, i will update the information here.
 
-NOTE: These are my notes while following [**Data with Baraa**](https://youtu.be/SSKVgrwhzus?si=1M2fw5MVgqY_iIBb) SQl 30 hrs Tutorial.
+NOTE: These are my notes while following [**Data with Baraa**](https://youtu.be/SSKVgrwhzus?si=1M2fw5MVgqY_iIBb) SQL 30 hrs Tutorial.
