@@ -108,19 +108,19 @@ Databases have a proper structure of organising the data.
 - A row contains the data about the features of the object.
 - A cell is a intersection of row and column.
 
-Schema define which columns will contain what kind of data( string, or number, or data, etc), which tables are related to which tables( using primary key and foreign key).
+`Schema` define which columns will contain what kind of data( string, or number, or data, etc), which tables are related to which tables( using primary key and foreign key).
 
-A table organises data into multiple columns, each column defianes a property of an object, also called fields/attributes.
+A `table` organises data into multiple columns, each column defianes a property of an object, also called fields/attributes.
 
-Each row, also called Records, represents data about a feature/column.
+Each `row`, also called `Records`, represents data about a feature/column.
 
-Each table contains a Primary key.
+Each table contains a `Primary key`.
 
-A primary key is a column which contains all unique values and not null vlaues i.e. no entry in this column is left empty, every row has some value for this column which is unique, not repeated in the whole column.
+A `primary key` is a column which contains all unique values and not null vlaues i.e. no entry in this column is left empty, every row has some value for this column which is unique, not repeated in the whole column.
 
 Each cell contains a value of some specific datatype.
 
-A datatype is what tells what kind of values can be filled in any column.
+A `datatype` is what tells what kind of values can be filled in any column.
 
 Various Datatypes are:
 - INT - to store integer value
